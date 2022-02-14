@@ -1,0 +1,10 @@
+matplotlib==3.3.4
+numpy==1.20.1
+pandas==1.2.2
+Pillow==9.0.1
+SimpleITK==1.2.4
+telegram==0.0.1
+torch==1.7.1
+torchio==0.18.29
+torchsummary==1.5.1
+tqdm==4.57.0
